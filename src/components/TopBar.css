@@ -1,0 +1,14 @@
+.topbar {
+  height: 60px;
+  background-color: coral;
+  display: flex;
+  align-items: center;
+}
+
+.filter {
+  margin-left: 50px;
+  padding: 5px 15px;
+  width: 240px;
+  border-radius: 20px;
+  border: 0;
+}
